@@ -1,0 +1,7 @@
+main
+[
+	new number a;
+	a = 1+"string";
+]
+
+

@@ -1,0 +1,10 @@
+main
+[
+	new number x = 9;
+	new number y;
+	new number z;
+	y=(((16+3) - 3)*2)/0;
+	write y;
+	z=(((16+3)-x)*2);
+	write z;
+]
